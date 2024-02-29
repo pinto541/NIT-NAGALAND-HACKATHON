@@ -9,49 +9,7 @@ OTHER MEMBERS: 1. SHAQUIF SHAKIL
 
 
 
-## Installation - Backend
-
-Create Python Virtual Env
-
-```bash
-  python3 -m venv env
-```
-
-Install the Required Dependencies
-
-```bash
-  pip3 install -r requirements.txt
-```
-
-Activate the Environment
-
-```bash
-  source env/bin/activate
-```
-
-Create a config.py file with database_uri in app directory
-
-Run the App
-
-```bash
-  python3 run.py
-```
-
-## Installation - Frontend
-
-Install the Required Dependencies
-
-```bash
-  npm i
-```
-
-Run the Project
-
-```bash
-  npm start
-```
-
-## Features
+FEATURES:
 
 - Crop Recommendation
 - Crop Yield Prediction
